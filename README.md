@@ -1,1 +1,0 @@
-# He-Ming-Way
