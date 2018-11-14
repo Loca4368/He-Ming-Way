@@ -1,0 +1,25 @@
+.navbar-dark {
+    background-color: #000;
+    background-image: none;
+    background-repeat: no-repeat;
+    filter: none;
+    border: 1px solid #000a00;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0 1px 4px rgba(14, 4, 4, 0.067);
+    min-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px
+  }
+
+  .navbar-dark a {
+    color: #ff0000
+}
+ 
+
+.nav-item a {
+    color: #ffffff;
+}
+
+.nav-item a:hover {
+    color: red;
+}
